@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! I'm Ankit 🙋‍♂️<br>As an undergraduate, I am majoring in Computer Science and Engineering.<br>My interest includes Web Development & Game Development.<br>Currently :<br>Exploring React & Unity
+Hi ! I'm Ankit 🙋‍♂️<br>My interest includes Web Development & Game Development.<br>Currently :<br>Exploring React & Unity
 
 
 ## 🌐 Socials:
