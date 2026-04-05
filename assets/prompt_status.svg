@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="20">
+  <text x="0" y="15" font-family="monospace" font-size="13" fill="rgb(140,170,238)">ankit@ankit ~</text>
+  <text x="112" y="15" font-family="monospace" font-size="13" fill="rgb(242,213,207)"> $</text>
+  <text x="130" y="15" font-family="monospace" font-size="13" fill="rgb(198,208,245)"> git status</text>
+</svg>
