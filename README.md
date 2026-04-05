@@ -1,53 +1,52 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=700&size=28&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=printf(%22Hello%2C+World!%5Cn%22)%3B;root%404nkit%3A~%24+init_session;Status%3A+ONLINE" alt="Typing SVG" />
+
+```
+┌──────────────────────────────────────────┐
+│  ankit@ankit ~ $ whoami                  │
+│  > working close to the metal            │
+└──────────────────────────────────────────┘
+```
+
 </div>
 
-<br />
+---
 
-### 🚀 `root@4nkit:~$ whoami`
+![prompt](assets/prompt_about.svg)
 
-```text
-     .----------------.
-     | >_ root@4nkit  |      User:  Ankit Patra
-     |                |      Role:  Full Stack Developer
-     |   SYSTEM RDY   |      Loc:   India
-     |   [||||||||]   |      
-     |                |      > Software Engineer focused on backend
-     '----------------'      > architecture and system optimization.
-          |______|           > Building tools that automate the boring stuff.
-    [   =============  ]
-```
+Developer who likes getting close to the machine. I work with C, C++, and Python — backend systems, low-level code, the kind of engineering that's closer to the hardware than the framework. Most of my time goes into building: performance, structure, clean logic over clever hacks.
 
-<br />
+---
 
-### 🛠️ `root@4nkit:~$ ./check_modules.py`
+![prompt](assets/prompt_status.svg)
 
-```python
-# --- CORE SYSTEMS ---       # --- BACKEND INFRA ---      # --- FRONTEND UI ---
-[OK]  C / C++               [OK]  Django & Flask         [OK]  HTML5 / CSS3
-[OK]  Java                  [OK]  Node.js & Express      [OK]  JavaScript (ES6+)
-[OK]  Python                [OK]  SpringBoot             [OK]  React.js
-[OK]  Git & SQL             [OK]  Docker & AWS           [OK]  Tailwind CSS
-```
+  On branch main <br>
 
-<br />
+  interests:<br>
+    + Linux<br>
+    + Terminal and terminal tools<br>
+    + Backend development<br>
+    + Low level development<br>
 
-### 📡 `root@4nkit:~$ ./send_packet.sh`
+---
 
-```bash
-# Establishing Connection...
-# > Target:  Ankit Patra
-# > Status:  OPEN
-```
+![prompt](assets/prompt_links.svg)
 
-| Protocol | Destination | Action |
-| :--- | :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/ankitpatra123](https://www.linkedin.com/in/ankitpatra123) | `connect()` |
-| **Email** | [ankitpatra0123@gmail.com](mailto:ankitpatra0123@gmail.com) | `send_mail()` |
-| **GitHub** | [github.com/Ankit-Patra](https://github.com/Ankit-Patra) | `git_pull()` |
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b2e?style=for-the-badge&logo=linkedin&logoColor=bb9af7)](https://linkedin.com/in/ankitpatra123)
+[![Website](https://img.shields.io/badge/4nkit.dev-1a1b2e?style=for-the-badge&logo=firefox&logoColor=7aa2f7)](https://4nkit.dev)
+[![Gmail](https://img.shields.io/badge/Gmail-1a1b2e?style=for-the-badge&logo=gmail&logoColor=f7768e)](mailto:ankitpatra0123@gmail.com)
 
-<br />
+---
 
-<div align="center"> 
-  <code>exit(0)</code> 
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=ankit-patra&theme=tokyonight&hide_border=true&background=1a1b2e&ring=bb9af7&fire=ff9e64&currStreakLabel=c0caf5)
+
+</div>
+
+---
+
+<div align="center">
+
+![prompt](assets/prompt_cursor.svg)
+
 </div>
